@@ -2,7 +2,6 @@
 
 * [面试2](README.md)
 * [面试1](mian-shi-1.md)
-* [面试1](mian-shi-1-1.md)
 
 ## golang
 
