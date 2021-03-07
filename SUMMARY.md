@@ -5,8 +5,3 @@
 
 ## golang
 
----
-
-* [面试2](mian-shi-2/README.md)
-  * [基础](mian-shi-2/ji-chu.md)
-
