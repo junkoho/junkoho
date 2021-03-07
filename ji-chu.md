@@ -4,7 +4,7 @@ description: 基础
 
 # 基础
 
-```text
+```css
 
 <strong>123<strong/>
 ```
